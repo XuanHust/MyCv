@@ -40,18 +40,20 @@ content{
     margin-right: 20px;
     float: left;
     text-align: center;
+    /* margin-bottom: 60px; */
 }
 .content-left img{
     width: 80%;
     border-radius: 50%;
-    margin-bottom: 10px;
+    margin-bottom: 25px;
     max-height: 200px;
     object-fit: cover;
+    margin-top: 20px;
 }
 .content-left h2{
     text-align: center;
     color: rgb(37, 172, 172);
-    margin-bottom: 10px;
+    margin-bottom: 20px;
 }
 .content-left-info{
     background-color: rgb(37, 172, 172);
@@ -80,6 +82,11 @@ content{
     text-transform: uppercase;
 }
 .content-right-title > h2{
+    font-size: 16px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.astroWeb{
     font-size: 16px;
     margin-top: 5px;
     margin-bottom: 5px;
